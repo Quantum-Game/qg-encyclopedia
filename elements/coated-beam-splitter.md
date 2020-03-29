@@ -1,5 +1,7 @@
 # Coated Beam Splitter
 
+Like beamsplitter but with a different phase change, depending on the direction.
+
 COMING SOON!
 
 ```{quantum-board}

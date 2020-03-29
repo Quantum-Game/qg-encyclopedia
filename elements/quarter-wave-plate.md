@@ -42,7 +42,7 @@ The two axis of the crystalline birefringent material are called the fast and sl
 
 ## Further Reading
 
-[Wave Plate on Wikipedia](https://en.wikipedia.org/wiki/Waveplate)
-[Introduction to Waveplates](https://www.toweroptical.com/introduction-to-waveplates/)
-[Understanding Waveplates](https://www.edmundoptics.com/resources/application-notes/optics/understanding-waveplates/)
-[More on Waveplates](https://www.rp-photonics.com/waveplates.html)
+- [Wave Plate on Wikipedia](https://en.wikipedia.org/wiki/Waveplate)
+- [Introduction to Waveplates](https://www.toweroptical.com/introduction-to-waveplates/)
+- [Understanding Waveplates](https://www.edmundoptics.com/resources/application-notes/optics/understanding-waveplates/)
+- [More on Waveplates](https://www.rp-photonics.com/waveplates.html)

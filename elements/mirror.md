@@ -2,6 +2,8 @@
 
 A mirror is an object that reflects incident light preserving its properties.
 
+_Mirror, mirror on the board, what is the best quantum game in the world?_
+
 ```{quantum-board}
       {
         "cols": 4,
@@ -25,13 +27,29 @@ A mirror is an object that reflects incident light preserving its properties.
       }
 ```
 
-## Dig Deeper
+## The basics
 
-Usually mirrors are made by taking a flat piece of glass and coating one side with a metal such as silver or aluminium. Nowadays, most manufacturers achieve this by having a series of coatings, to make sure that as much as possible of the light is reflected.
+A mirror reflects light, with incidence angle being the same as the reflectance angle.
 
-In theory, mirrors reflect all of the light. In reality, there is no ideal mirror and there is always a small loss, some light is absorbed or transmitted through the glass. To make sure as much light is reflected as possible, most manufacturers nowadays make mirrors which have a series of coatings.
+It does change left with right! To see that, play with the transition matrix and set basis for circular ⟲⟳.
 
-Mirrors can be flat or curved, depending whether we want to have a collimated or straight beam after or whether we want to focus our beam to a smaller size. The reflecting coating can be picked to work at any wavelength. Many mirrors are working at visible light, but there are also mirror which reflect ultraviolet and infrared light.
+## In-game
+
+We use a mirror that reflects light from both sides. While it is technically possible, it is not a common setting for everyday, or laboratory, use.
+
+## Dig deeper
+
+Typical mirrors are made by taking a flat piece of glass and coating one side with a metal such as silver or aluminum.
+However, such metals do absorb light - at least a few percent with each reflection. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Image-Metal-reflectance.png)
+
+In laboratory, with mutliple mirrors in a single line, usually is not accetpable - due to heating (for strong beams) or lossing photons (for very weak beams).  
+However, it is possible to reflect with non-absorbtive materials, using so-called Bragg reflection. 
+It requires enhancing natural reflection from surface by creating multiple layers with different refractive indicses, creating so-called dielectric mirrors.
+
+For some applications it is enough to have a mirror that works at a given wavelength (e.g. for monochromatic lasers), but sometimes we need to work at a whole range of weavelength (e.g. for femtosecond impulses). There are mirros for various wavelength ranges, from infrared, through the visible spectrum, to ultraviolet light.
+
 
 ## TRICKS WITH PHASE!
 
@@ -43,8 +61,11 @@ NB! When light hits a surface which has a higher refractive index than the mediu
 
 We all use mirrors all the time, to check on our hair in the morning, or to look at our backs when we are driving. Mirrors are all around us!
 
-## Further Reading
+## Further reading
 
 * [Mirror](https://en.wikipedia.org/wiki/Mirror)
-* [Reflection Phase Change](https://en.wikipedia.org/wiki/Reflection_phase_change)
+* [Specular reflection](https://en.wikipedia.org/wiki/Specular_reflection)
+* [Dielectric mirror](https://en.wikipedia.org/wiki/Dielectric_mirror)
+* [Reflection phase change](https://en.wikipedia.org/wiki/Reflection_phase_change)
+* [Optical coating](https://en.wikipedia.org/wiki/Optical_coating)
 * [Optical Cavity](https://en.wikipedia.org/wiki/Optical_cavity)

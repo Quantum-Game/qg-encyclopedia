@@ -1,6 +1,7 @@
 # Photon Detector
 
 It detects any photon which is incident on it by transforming it into an electrical signal.
+
 _To win the game, you want to feed as many carnivorous plants as possible! They are hungry!_
 
 ```{quantum-board}

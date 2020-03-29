@@ -2,6 +2,8 @@
 
 Using sound, it shifts the frequency of light by a certain amount.
 
+NOT YET IN THE GAME.
+
 ## The basics
 
 Acusto-optic modulators are made up of a piece of glass to which a piezoelectric transducer is attached. The transducer generates an acoustic wave which propagates through the glass. The sound waves travelling through the crystal change periodically its refractive index. An incoming beam of light scatters off from the period refractive index planes, producing many different beams with shifted frequencies (different orders).

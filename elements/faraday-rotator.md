@@ -31,7 +31,7 @@ A photon enters a ferromagnetic crystal placed in a strong magnetic field. Due t
 
 ## Explanations
 
-Suppose a photon travels through a faraday rotator, gets reflected off the mirror and travels back through the rotator. On the second pass, the effect of the rotator adds up to the first pass, and the photon polarization is rotated by 90 degrees overall. The reason for this is that upon reflection, the wave changes chirality - so left-circularly polarized light becomes right-circularly polarized, and vice versa. This so-called “non-reciprocity” is the reason why Faraday rotators are ubiquitous in optics laboratories.
+Suppose a photon travels through a Faraday rotator, gets reflected off the mirror and travels back through the rotator. On the second pass, the effect of the rotator adds up to the first pass, and the photon polarization is rotated by 90 degrees overall. The reason for this is that upon reflection, the wave changes chirality - so left-circularly polarized light becomes right-circularly polarized, and vice versa. This so-called “non-reciprocity” is the reason why Faraday rotators are ubiquitous in optics laboratories.
 
 ## USAGE IN LABORATORIES AND EXPERIMENTS
 

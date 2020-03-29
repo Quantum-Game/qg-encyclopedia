@@ -1,6 +1,6 @@
 # Vacuum Jar
 
-COMING SOON!
+It advances polarization.
 
 ```{quantum-board}
       {
@@ -24,3 +24,15 @@ COMING SOON!
         ]
       }
 ```
+
+## The basics
+
+The refractive index of air is 1.000293 (at 0 def of Celcius, and 1atm pressure), which means that in the air it takes light 0.0293% more time to travel the same distance.
+
+## Digging deeper
+
+For the wavelength of 700nm (red) it would take around 0.6mm of vacuum to shift its phase by lambda/4.
+
+## Related concepts
+
+- Glass

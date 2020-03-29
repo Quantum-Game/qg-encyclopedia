@@ -2,6 +2,8 @@
 
 Can create 2 photons from a single photon, the two photons have half the frequency of the original photon. Conversely, can combine two photons to create a single photon with double the frequency.
 
+NOT YET IN THE GAME.
+
 ## The Basics
 
 Non linear optics is a special type of optics which works a bit differently than linear optics (examples of which are mirrors, beamsplitters, attenuators). It allows us to change the color of a light beam, to change its shape in space and time, and to create the shortest events ever made by humans. There are many different phenomena that can occur because of non linear behaviour, some examples are:
