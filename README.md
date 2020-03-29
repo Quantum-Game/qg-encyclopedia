@@ -1,5 +1,10 @@
-# qg-encyclopedia
+# Quantum Game Encyclopedia
 
-Element and concept encyclopedia for Quantum Game with Photons
+[![Twitter @QuantumGameIO](https://img.shields.io/twitter/follow/QuantumGameIO)](https://twitter.com/quantumgameio)
 
-![](imgs/polarizer.jpg)
+Element and concept encyclopedia for [Quantum Game with Photons](https://quantumgame.io/) (see [github.com/Quantum-Game](https://github.com/Quantum-Game/) for code).
+
+All text is on CC BY license by [Chiara Decaroli](https://maperseguirvirtute.wordpress.com/), [Piotr Migdał](https://p.migdal.pl/) and other contributors..
+
+All images are on their own licenses. 
+
