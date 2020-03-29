@@ -1,0 +1,13 @@
+{
+  "ignorePatterns": [
+      {
+          "pattern": "#ignore"
+      }
+  ],
+  "replacementPatterns": [
+      {
+          "pattern": "^\\.\\./imgs",
+          "replacement": "https://media.githubusercontent.com/media/Quantum-Game/qg-encyclopedia/master/imgs"
+      }
+  ]
+}
