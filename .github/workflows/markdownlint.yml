@@ -3,8 +3,9 @@ name: Check Markdown lint
 
 on: 
   push:
-    branches:
-    - master
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   markdownlint-cli:
