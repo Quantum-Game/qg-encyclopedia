@@ -13,6 +13,6 @@ jobs:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@0.6.0
       with:
-        use-quiet-mode: 'yes'
+        use-quiet-mode: 'no'
         use-verbose-mode: 'yes'
         config-file: 'config/markdown-link-check.json'
