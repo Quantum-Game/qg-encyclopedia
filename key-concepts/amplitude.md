@@ -19,3 +19,4 @@ TO DO:
 * [Amplitude](https://en.wikipedia.org/wiki/Amplitude)
 * [Complex numbers in JavaScript - Mateo Gianolio](https://observablehq.com/@mateogianolio/complex-numbers-in-javascript)
 * [W. H. Zurek, Probabilities from Entanglement, Born's Rule from Envariance](https://arxiv.org/abs/quant-ph/0405161)
+* [Wrong link2](https:/asdfdjnsdkjd.pl)
