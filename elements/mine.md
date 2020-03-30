@@ -2,7 +2,6 @@
 
 Photo-sensitive bomb.
 
-
 ```{quantum-board}
       {
         "cols": 4,

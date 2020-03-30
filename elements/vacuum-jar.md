@@ -35,4 +35,4 @@ For the wavelength of 700nm (red) it would take around 0.6mm of vacuum to shift 
 
 ## Related concepts
 
-- Glass
+* Glass

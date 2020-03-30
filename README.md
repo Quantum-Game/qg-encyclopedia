@@ -6,5 +6,4 @@ Element and concept encyclopedia for [Quantum Game with Photons](https://quantum
 
 All text is on CC BY license by [Chiara Decaroli](https://maperseguirvirtute.wordpress.com/), [Piotr Migdał](https://p.migdal.pl/) and other contributors.
 
-All images are on their own licenses. 
-
+All images are on their own licenses.

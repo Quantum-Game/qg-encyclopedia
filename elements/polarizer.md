@@ -43,7 +43,6 @@ Polarizers are all around us, from our sunglasses to our cameras. Sunlight which
 Polarizers are everywhere in Optics and Quantum physics labs! Can you spot them below?
 [!Polarizers in a lab](https://horizon-media.s3-eu-west-1.amazonaws.com/s3fs-public/field/image/Labor%20UQUAM.jpg)
 
-
 ## Further Reading
 
 * [Polarizer](https://en.wikipedia.org/wiki/Polarizer)

@@ -54,7 +54,8 @@ PMTs, along with other types of photon counting detectors, such as photochemical
 
 [![Photomultiplier tubue](https://scx2.b-cdn.net/gfx/news/hires/2016/thesuperkami.jpg)](https://phys.org/news/2016-11-super-kamiokande-detector-awaits-neutrinos-supernova.html)
 
-## further reading
+## Further reading
+
 [Photodetector](https://en.wikipedia.org/wiki/Photodetector)
 [Photon counting](https://en.wikipedia.org/wiki/Photon_counting)
 [Photomultiplier Tube](https://en.wikipedia.org/wiki/Photomultiplier_tube)
@@ -62,9 +63,8 @@ PMTs, along with other types of photon counting detectors, such as photochemical
 [See a Photon](http://math.ucr.edu/home/baez/physics/Quantum/see_a_photon.html)
 [Super Kamiokande Detector](https://phys.org/news/2016-11-super-kamiokande-detector-awaits-neutrinos-supernova.html)
 
+## Related concepts
 
-## Related concepts:
--photoelectric effect
--single photon source
--spontaneous emission/absorption/stimulated emission
-
+* photoelectric effect
+* single photon source
+* spontaneous emission/absorption/stimulated emission

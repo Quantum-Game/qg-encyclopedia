@@ -40,18 +40,17 @@ We use a mirror that reflects light from both sides. While it is technically pos
 ## Dig deeper
 
 Typical mirrors are made by taking a flat piece of glass and coating one side with a metal such as silver or aluminum.
-However, such metals do absorb light - at least a few percent with each reflection. 
+However, such metals do absorb light - at least a few percent with each reflection.
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Image-Metal-reflectance.png)
+![Reflectance for metals](https://upload.wikimedia.org/wikipedia/commons/9/9d/Image-Metal-reflectance.png)
 
 In laboratory, with mutliple mirrors in a single line, usually is not accetpable - due to heating (for strong beams) or lossing photons (for very weak beams).  
-However, it is possible to reflect with non-absorbtive materials, using so-called Bragg reflection. 
+However, it is possible to reflect with non-absorbtive materials, using so-called Bragg reflection.
 It requires enhancing natural reflection from surface by creating multiple layers with different refractive indicses, creating so-called dielectric mirrors.
 
 For some applications it is enough to have a mirror that works at a given wavelength (e.g. for monochromatic lasers), but sometimes we need to work at a whole range of weavelength (e.g. for femtosecond impulses). There are mirros for various wavelength ranges, from infrared, through the visible spectrum, to ultraviolet light.
 
-
-## TRICKS WITH PHASE!
+## TRICKS WITH PHASE
 
 NB! When light hits a surface which has a higher refractive index than the medium in which is wa travelling it will pick up a 180 degrees phase!
 

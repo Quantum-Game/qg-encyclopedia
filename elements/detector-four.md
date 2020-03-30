@@ -31,7 +31,6 @@ _It is a four-headed plant. Very devourous!_
 
 Works like a detector, but accepts incoming light from all directions.
 
-
 ## Related concepts
 
-- Detector
+* Detector

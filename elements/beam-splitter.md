@@ -25,7 +25,6 @@ Optical devices used to split a single beam of laser light into two beams, or to
 }
 ```
 
-
 ```{quantum-board}
 {
   "cols": 4,

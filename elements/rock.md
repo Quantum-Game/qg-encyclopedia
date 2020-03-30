@@ -31,12 +31,10 @@ _But I know every rock, and tree, and creature, has a life, has a spirit, has a 
 
 If a photon hits a rock, it is gone.
 
-
 ## In-game
 
 You may say that "this Rock blocks light and make some easy levels much more difficult".
 This Rock is your mentor and your guide into the quantum realm. Listen to their pieces of advice carefully.
-
 
 ## Further reading
 
