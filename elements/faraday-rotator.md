@@ -17,7 +17,7 @@ It rotates the polarization of light by 45 degrees due to interaction with magne
           {
             "coord": { "y": 1, "x": 2 },
             "element": "FaradayRotator",
-            "rotation": 90,
+            "rotation": 0,
             "frozen": false,
             "active": false
           }
