@@ -58,13 +58,13 @@ Beamsplitters can come in two forms: a cube or a thin slab (like shown in the fi
 
 ## Explanation
 
-You can experiment with frustrated total internal reflection yourself by filling a glass with water. If you look down into your glass of water, you will notice that you can’t see the “outside world” at all through the sides of the glass. This is because all the light gets reflected inside the glass of water, none is transmitted to the outside. However, if you hold the glass with your fingers, by holding it tightly you will see your fingerprints appearing
+You can experiment with a frustrated total internal reflection yourself by filling a glass with water. If you look down into your glass of water, you will notice that you can’t see the “outside world” at all through the sides of the glass. This is because all the light gets reflected inside the glass of water, none is transmitted to the outside. However, if you hold the glass with your fingers, by holding it tightly you will see your fingerprints appearing
 
-Beamsplitters are used in interferometers, and some spooky phenomenon can be achieved with them (check out level xx)! This phenomenon is due to a phase shift which the beamsplitter imparts on the reflected beam. When light bounces off a material with a higher refractive index, it picks up a phase of 180°, or a π-phase.
+Beamsplitters are used in interferometers, and some spooky phenomenona can be achieved with them (check out level xx)! This phenomenon is due to a phase shift which the beamsplitter imparts on the reflected beam. When light bounces off material with a higher refractive index, it picks up a phase of 180°, or a π-phase.
 
 ## Usage in laboratories and experiments
 
-You can find beamsplitters around you in your everyday life! For example, they used to be inside old TVs. Nowadays, they are used in CCD-cameras, LCD displays and optical fibre communication systems. Of course, they are used daily by thousands of scientists in the world, which align them as part of their large optical systems.
+You can find beamsplitters around you in your everyday life! For example, they used to be inside old TVs. Nowadays, they are used in CCD-c,
 
 ## Further resources
 
@@ -80,7 +80,7 @@ Famous experiments that used beamsplitters are:
 * The Fizeau experiment of 1851 to measure the speeds of light in water
 * The Michelson-Morley experiment of 1887 to measure the effect of the (hypothetical) luminiferous aether on the speed of light
 * Bell test experiments (from ca. 1972) to demonstrate consequences of quantum entanglement and exclude local hidden variable theories
-* Wheeler's delayed choice experiment of 1978, 1984 etc., to test what makes a photon behave as a wave or a particle and when it happens
+* Wheeler's delayed-choice experiment of 1978, 1984 etc., to test what makes a photon behave as a wave or a particle and when it happens
 
 ## Further reading
 
@@ -88,7 +88,7 @@ Famous experiments that used beamsplitters are:
 * [Beamsplitters on Wikipedia](https://en.wikipedia.org/wiki/Beam_splitter)
 * [Beamsplitters on RP Photonics Encyclopedia](https://www.rp-photonics.com/beam_splitters.html)
 
-Videos on hommade beamsplitters:
+Videos on homemade beamsplitters:
 
 * [What is a beam splitter and how do you make one?](https://www.youtube.com/watch?v=P1n3hizj3c4)
-* [Playing with beamsplitters](Playing with beamsplitters)
+* [Playing with beamsplitters](https://www.youtube.com/watch?v=C7edG13kzgU)
