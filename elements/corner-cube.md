@@ -1,6 +1,12 @@
 # Corner Cube
 
+Corner reflectors typically consist of three mirrors which return an incident light beam in the opposite direction.
 COMING SOON!
+
+## The basics
+
+In quantum physics, amplitude is a complex number. It has two components: length describing weight and phase describing relative position of a wave.
+The probability of a given component is the length of complex number squared.
 
 ```{quantum-board}
 {
