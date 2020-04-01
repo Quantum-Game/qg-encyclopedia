@@ -3,19 +3,18 @@
 An on-demand single photon source.
 
 ```{quantum-board}
-      {
-        "cols": 4,
-        "rows": 3,
-        "cells": [
-          {
-            "coord": { "y": 1, "x": 0 },
-            "element": "Laser",
-            "rotation": 0,
-            "frozen": true,
-            "active": true
-          }
-        ]
-      }
+{
+  "cols": 4,
+  "rows": 3,
+  "cells": [
+    {
+      "coord": { "x": 0, "y": 1 },
+      "element": "Laser",
+      "rotation": 0,
+      "frozen": false
+    }
+  ]
+}
 ```
 
 ## The basics

@@ -3,26 +3,24 @@
 Light travels slower in a glass, so it retards a wavepacket (vs if it were traveling in the air).
 
 ```{quantum-board}
-      {
-        "cols": 4,
-        "rows": 3,
-        "cells": [
-          {
-            "coord": { "y": 1, "x": 0 },
-            "element": "Laser",
-            "rotation": 0,
-            "frozen": true,
-            "active": true
-          },
-          {
-            "coord": { "y": 1, "x": 2 },
-            "element": "Glass",
-            "rotation": 90,
-            "frozen": false,
-            "active": false
-          }
-        ]
-      }
+{
+  "cols": 4,
+  "rows": 3,
+  "cells": [
+    {
+      "coord": { "x": 0, "y": 1 },
+      "element": "Laser",
+      "rotation": 0,
+      "frozen": true
+    },
+    {
+      "coord": { "x": 2, "y": 1 },
+      "element": "Glass",
+      "rotation": 90,
+      "frozen": false
+    }
+  ]
+}
 ```
 
 ## Basics

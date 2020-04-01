@@ -8,14 +8,14 @@ Optical devices used to split a single beam of laser light into two beams, or to
   "rows": 3,
   "cells": [
     {
-      "coord": { "y": 0, "x": 0 },
+      "coord": { "x": 0, "y": 0 },
       "element": "Laser",
       "rotation": 0,
       "frozen": true,
       "active": true
     },
     {
-      "coord": { "y": 0, "x": 2 },
+      "coord": { "x": 2, "y": 0 },
       "element": "BeamSplitter",
       "rotation": 135,
       "frozen": false,
@@ -31,20 +31,16 @@ Optical devices used to split a single beam of laser light into two beams, or to
   "rows": 3,
   "cells": [
     {
-      "coord": { "y": 0, "x": 0 },
+      "coord": { "x": 0, "y": 0 },
       "element": "Laser",
       "rotation": 0,
-      "frozen": true,
-      "active": true,
-      "energized": false
+      "frozen": true
     },
     {
-      "coord": { "y": 0, "x": 2 },
+      "coord": { "x": 2, "y": 0 },
       "element": "BeamSplitter",
       "rotation": 90,
-      "frozen": false,
-      "active": false,
-      "energized": false
+      "frozen": false
     }
   ]
 }

@@ -18,7 +18,7 @@ To create a non linear effect, a non linear medium is placed in the path of ligh
 
 Non linear crystals are used for research applications in optical communication, optical sensing and materials research.
 
-## Digginf Deeper
+## Digging Deeper
 
 BBO, or Barium Borate crystals are very common medium used to create non linear phenomena. They are strongly birefringent, meaning that they have two different refractive indices. In addition, they have a specific crystal symmetry and are resistant to high power light. Other types of non linear crystals are KDP (potassium dihydrogen phosphate), KTP (potassium titanyl phosphate), and lithium niobate.
 

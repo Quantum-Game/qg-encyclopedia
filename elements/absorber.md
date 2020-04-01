@@ -3,26 +3,24 @@
 A neutral-density filter that absorbs 50% of light.
 
 ```{quantum-board}
-      {
-        "cols": 4,
-        "rows": 3,
-        "cells": [
-          {
-            "coord": { "y": 1, "x": 0 },
-            "element": "Laser",
-            "rotation": 0,
-            "frozen": true,
-            "active": true
-          },
-          {
-            "coord": { "y": 1, "x": 2 },
-            "element": "Absorber",
-            "rotation": 90,
-            "frozen": false,
-            "active": false
-          }
-        ]
-      }
+{
+  "cols": 4,
+  "rows": 3,
+  "cells": [
+    {
+      "coord": { "x": 0, "y": 1 },
+      "element": "Laser",
+      "rotation": 0,
+      "frozen": true
+    },
+    {
+      "coord": { "x": 2, "y": 1 },
+      "element": "Absorber",
+      "rotation": 90,
+      "frozen": false
+    }
+  ]
+}
 ```
 
 ## The basics
