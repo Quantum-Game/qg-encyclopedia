@@ -1,11 +1,11 @@
 # Amplitude
 
-Amplitude describes importance of a particular component of a wavefuction.
+Amplitude describes the importance of a particular component of a wavefunction.
 
 ## The basics
 
-In quantum physics, amplitude is a complex number.  It has to component: length describing weight and phase describing relative position of a wave.
-Probability of of a given component is the length of complex number squared.
+In quantum physics, amplitude is a complex number. It has two components: length describing weight and phase describing relative position of a wave.
+The probability of a given component is the length of complex number squared.
 
 ## Digging Deeper
 
