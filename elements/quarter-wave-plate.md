@@ -27,7 +27,7 @@ Quarter wave plates delay the polarization by lambda/4. This means that they con
 
 ![Quarter Plate](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Circular.Polarization.Circularly.Polarized.Light_Circular.Polarizer_Creating.Left.Handed.Helix.View.svg/1280px-Circular.Polarization.Circularly.Polarized.Light_Circular.Polarizer_Creating.Left.Handed.Helix.View.svg.png)
 
-Waveplates are thick slabs of birefringent material, such as quartz or mica. For this type of material, the index of refraction, which is a quantity related to how fast or slow light is travelling through a medium, is different along two main directions within the crystal. When light is linearly polarized, this polarization can be broken into two components along the directions of the birefringence. Due to the different refractive index, one of the components will travel slower than the other. The phase shift between them is of pi/2. This phase shift between components gives rise to elliptical and circular polarization.
+Waveplates are thick slabs of birefringent material, such as quartz or mica. For this type of material, the index of refraction, which is a quantity related to how fast or slow light is traveling through a medium, is different along two main directions within the crystal. When light is linearly polarized, this polarization can be broken into two components along the directions of the birefringence. Due to the different refractive indices, one of the components will travel slower than the other. The phase shift between them is of pi/2. This phase shift between components gives rise to elliptical and circular polarization.
 
 ## Everyday use & usage in laboratories
 
