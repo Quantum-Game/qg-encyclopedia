@@ -27,13 +27,13 @@ _To win the game, you want to feed as many carnivorous plants as possible! They 
 
 ## Basics
 
-Some people argue that us humans, if we really stretch our eyes, can detect even single photons. [“The most amazing thing is that it’s not like seeing light. It’s almost a feeling, at the threshold of imagination”](https://www.nature.com/news/people-can-sense-single-photons-1.20282). Catching a single photon is an enormous challenge! Luckily, scientists have worked for us and have come up with many devices which can sense as little as one photon!
+Some people argue that us humans, if we really stretch our eyes, can detect even single photons. [“The most amazing thing is that it’s not like seeing light. It’s almost a feeling, at the threshold of imagination”](https://www.nature.com/news/people-can-sense-single-photons-1.20282). Catching a single photon is an enormous challenge! Luckily, scientists have worked for us and have come up with many devices that can sense as little as one photon!
 
-One of the most common single photon detectors is a called a photomultiplier tube. This is a device which can translate photons, which are light, into electricity, which can be measured precisely.
+One of the most common single photon detectors is a called a photomultiplier tube. This is a device that can translate photons, which are light, into electricity, which can be measured precisely.
 
 ## Everyday use
 
-Hardly any of us needs such a device on our everyday life, there is generally way too much light around us for us to be able to see single photons. However, single photon detectors are heavily used in quantum physics laboratory! And, of course, in quantum physics games! On the other hand, we find devices which turn light into electricity all around us, for example that’s exactly what solar panels do!
+Hardly any of us needs such a device in our everyday life, there is generally way too much light around us for us to be able to see single photons. However, single photon detectors are heavily used in quantum physics laboratory! And, of course, in quantum physics games! On the other hand, we find devices that turn light into electricity all around us, for example, that’s exactly what solar panels do!
 
 ## Digging deeper
 
