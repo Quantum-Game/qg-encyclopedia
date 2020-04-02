@@ -52,7 +52,8 @@ Beamsplitters are optical devices used to split a single beam of laser light int
 
 ## Everday use
 
-Beamsplitters can come in two forms: a cube or a thin slab (like shown in the figure above).
+You can find beamsplitters around you in your everyday life! For example, they used to be inside old TVs.
+Beamsplitters can come in two forms: a cube or a thin slab.
 
 **Beamsplitters cubes** are made of two prisms glued to each other. Using a phenomenon called [frustrated total internal reflection](https://en.wikipedia.org/wiki/Total_internal_reflection#Frustrated_total_internal_reflection) half of the initial beam is reflected, the other half is transmitted. This ratio depends on the gap between the two prisms, which is chosen and manufactured extremely carefully.
 
@@ -60,11 +61,9 @@ Beamsplitters can come in two forms: a cube or a thin slab (like shown in the fi
 
 You can experiment with a frustrated total internal reflection yourself by filling a glass with water. If you look down into your glass of water, you will notice that you can’t see the “outside world” at all through the sides of the glass. This is because all the light gets reflected inside the glass of water, none is transmitted to the outside. However, if you hold the glass with your fingers, by holding it tightly you will see your fingerprints appearing
 
-Beamsplitters are used in interferometers, and some spooky phenomenona can be achieved with them (check out level xx)! This phenomenon is due to a phase shift which the beamsplitter imparts on the reflected beam. When light bounces off material with a higher refractive index, it picks up a phase of 180°, or a π-phase.
+Beamsplitters are used in interferometers, and some spooky phenomenona can be achieved with them (check out level 6)! This phenomenon is due to a phase shift which the beamsplitter imparts on the reflected beam. When light bounces off material with a higher refractive index, it picks up a phase of 180°, or a π-phase.
 
-## Usage in laboratories and experiments
-
-You can find beamsplitters around you in your everyday life! For example, they used to be inside old TVs. Nowadays, they are used in CCD-c,
+![Beamsplitter](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/beam_splitter.jpg)
 
 ## Further resources
 
@@ -72,8 +71,6 @@ Beamsplitters are a fundamental optical element in all optics and quantum physic
 
 * Michelson-Morley interferometers
 * Mach-Zehnder interferometers
-
-![Beamsplitter](https://upload.wikimedia.org/wikipedia/commons/1/1f/Beamsplitter-1.png)
 
 Famous experiments that used beamsplitters are:
 
