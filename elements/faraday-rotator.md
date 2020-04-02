@@ -25,7 +25,7 @@ It rotates the polarization of light by 45 degrees due to interaction with magne
 
 ## The basics
 
-A photon enters a ferromagnetic crystal placed in a strong magnetic field. Due to “magneto-optic effect”, the polarization of the photon is rotated by an angle proportional to the magnetic field along the propagation direction. Consequently, if the photon enters from the opposite end, its polarization will be rotated in the opposite direction.
+A photon enters a ferromagnetic crystal placed in a strong magnetic field. Due to the “magneto-optic effect”, the polarization of the photon is rotated by an angle proportional to the magnetic field along the propagation direction. Consequently, if the photon enters from the opposite end, its polarization will be rotated in the opposite direction.
 
 ## Explanations
 
