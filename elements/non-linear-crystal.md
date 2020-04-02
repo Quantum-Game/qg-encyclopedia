@@ -9,10 +9,10 @@ NOT YET IN THE GAME.
 Non linear optics is a special type of optics which works a bit differently than linear optics (examples of which are mirrors, beamsplitters, attenuators). It allows us to change the color of a light beam, to change its shape in space and time, and to create the shortest events ever made by humans. There are many different phenomena that can occur because of non linear behaviour, some examples are:
 
 * Second-harmonic generation: combines two photons into one with double frequency
-* Sum-frequency generation: combines two photons into one with frequency as the sum of the incoming photons frequencies.
+* Sum-frequency generation: combines two photons into one with frequency as the sum of the frequencies of the incoming photons.
 * Spontaneous parametric down-conversion use to create single photon sources!
 
-To create a non linear effect, a non linear medium is placed in the path of light. Usually a non linear crystal is used, such as the BBO crystal.
+To create a non linear effect, a non linear medium is placed in the path of light. Usually, a non linear crystal is used, such as the BBO crystal.
 
 ## Usage in everyday life and the laboratory
 
