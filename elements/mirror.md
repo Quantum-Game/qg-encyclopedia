@@ -42,11 +42,13 @@ However, such metals do absorb light - at least a few percent with each reflecti
 
 ![Reflectance for metals](https://upload.wikimedia.org/wikipedia/commons/9/9d/Image-Metal-reflectance.png)
 
-In laboratory, with multiple mirrors in a single line, usually is not acceptable - due to heating (for strong beams) or losing photons (for very weak beams).  
+In laboratory, with multiple mirrors in a single line, this usually is not acceptable - due to heating (for strong beams) or losing photons (for very weak beams).  
 However, it is possible to reflect with non-absorptive materials, using the so-called Bragg reflection.
 It requires enhancing natural reflection from the surface by creating multiple layers with different refractive indices, creating so-called dielectric mirrors.
 
 For some applications, it is enough to have a mirror that works at a given wavelength (e.g. for monochromatic lasers), but sometimes we need to work at a whole range of wavelengths (e.g. for femtosecond impulses). There are mirrors for various wavelength ranges, from infrared, through the visible spectrum, to ultraviolet light.
+
+![Lab mirror](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/mirror3a.jpg)
 
 ## TRICKS WITH PHASE
 
