@@ -34,12 +34,14 @@ Polarizers are made of crystals which are dichroic, they prefer to absorb light 
 
 Polarizers are all around us, from our sunglasses to our cameras. Sunlight which is reflected off surfaces is often polarized, and by blocking out some of the polarized light these filters attenuate the overall amount of light that reaches our eyes or the camera sensors. In photography, a polarizer can be used to change the contrast of a picture!
 
-[!Circular Polarizer](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/CircularPolarizer.jpg/1920px-CircularPolarizer.jpg)
+![Circular Polarizer](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/CircularPolarizer.jpg/1920px-CircularPolarizer.jpg)
 
 ## Usage in the Laboratory
 
 Polarizers are everywhere in Optics and Quantum physics labs! Can you spot them below?
-[!Polarizers in a lab](https://horizon-media.s3-eu-west-1.amazonaws.com/s3fs-public/field/image/Labor%20UQUAM.jpg)
+![Polarizers in a lab](https://horizon-media.s3-eu-west-1.amazonaws.com/s3fs-public/field/image/Labor%20UQUAM.jpg)
+
+![Polarizer](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/polarizer.jpg)
 
 ## Further Reading
 
