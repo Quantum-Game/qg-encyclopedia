@@ -27,7 +27,7 @@ Rotates the polarization of light by 45 degrees due to chirality of sugar molecu
 
 Sugar molecules are chiral, meaning they differ from their mirror image. Chiral molecules affect right- and left-circularly polarized light differently. As a consequence, they can be used to rotate polarization.
 
-All glucose found in nature is “D-glucose”. “L-Glucose” is its mirror image, which can be synthesised in the laboratory but does not occur naturally. Scientists can distinguish the two by measuring which direction they rotate polarization.
+All glucose found in nature is “D-glucose”. “L-Glucose” is its mirror image, which can be synthesized in the laboratory but does not occur naturally. Scientists can distinguish the two by measuring which direction they rotate polarization.
 
 ![Kinds of Glucose](https://s3-eu1.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-de848af8d44207b6a19458c340dc99c0.webp&sp=924c33fd7d8a6f5bf074f3028fe1610b)
 
