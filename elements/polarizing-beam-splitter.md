@@ -32,6 +32,8 @@ A cube made of two pieces of birefringent materials, that is, ones that have a d
 We use cubes for polarizing beam-splitter, and thin pieces of glass for non-polarizing beam-splitters.
 The reality is more complicated, as both setups can work, for polarizing or non-polarizing.
 
+![cube polarizing beam splitter](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/pbs.jpg)
+
 ## Further reading
 
 * [Birefringence](https://en.wikipedia.org/wiki/Birefringence)
