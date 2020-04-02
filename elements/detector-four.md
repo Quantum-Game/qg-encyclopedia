@@ -29,6 +29,12 @@ _It is a four-headed plant. Very devourous!_
 
 Works like a detector, but accepts incoming light from all directions.
 
+## Further reading
+
+* [Venus flytrap](https://en.wikipedia.org/wiki/Venus_flytrap)
+* [Piranha Plant - Mario](https://www.mariowiki.com/Piranha_Plant)
+* [Mean Green Mother from Outer Space - Little Shop Of Horrors](https://www.youtube.com/watch?v=mORUdw2djZw)
+
 ## Related concepts
 
 * Detector
