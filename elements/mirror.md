@@ -48,7 +48,7 @@ It requires enhancing natural reflection from the surface by creating multiple l
 
 For some applications, it is enough to have a mirror that works at a given wavelength (e.g. for monochromatic lasers), but sometimes we need to work at a whole range of wavelengths (e.g. for femtosecond impulses). There are mirrors for various wavelength ranges, from infrared, through the visible spectrum, to ultraviolet light.
 
-![Lab mirror](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/mirror3a.jpg)
+![Lab mirror](../imgs/mirror3a.jpg)
 
 ## TRICKS WITH PHASE
 

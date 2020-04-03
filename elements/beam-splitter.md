@@ -63,7 +63,7 @@ You can experiment with a frustrated total internal reflection yourself by filli
 
 Beamsplitters are used in interferometers, and some spooky phenomenona can be achieved with them (check out level 6)! This phenomenon is due to a phase shift which the beamsplitter imparts on the reflected beam. When light bounces off material with a higher refractive index, it picks up a phase of 180°, or a π-phase.
 
-![Beamsplitter](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/beam_splitter.jpg)
+![Beamsplitter](../imgs/beam_splitter.jpg)
 
 ## Further resources
 

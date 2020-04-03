@@ -41,10 +41,10 @@ Polarizers are all around us, from our sunglasses to our cameras. Sunlight which
 Polarizers are everywhere in Optics and Quantum physics labs! Can you spot them below?
 ![Polarizers in a lab](https://horizon-media.s3-eu-west-1.amazonaws.com/s3fs-public/field/image/Labor%20UQUAM.jpg)
 
-![Polarizer](https://github.com/Quantum-Game/qg-encyclopedia/blob/master/imgs/polarizer.jpg)
+![Polarizer](../imgs/polarizer.jpg)
 
 ## Further Reading
 
 * [Polarizer](https://en.wikipedia.org/wiki/Polarizer)
-* [Polarizing Filter](https://en.wikipedia.org/wiki/Polarizing_filter_(photography))
-* [Polarizing Filters - Why they're awesome?](https://www.youtube.com/watch?v=6Anskk4W7Ms)
+* [Polarizing filter](https://en.wikipedia.org/wiki/Polarizing_filter_&28photography&29)
+* [Polarizing filters - Why they're awesome?](https://www.youtube.com/watch?v=6Anskk4W7Ms)
