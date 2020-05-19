@@ -36,11 +36,11 @@ They are also used extensively in optics and quantum physics laboratories, where
 
 ## Digging deeper
 
-The two axis of the crystalline birefringent material are called the fast and slow axis. Manufacturing these plates is extremely challenging. The plate must be cut at exactly the right thickness to achieve the desired delay, and the tolerance for this is very tight, there is no room for error!
+The two-axis of the crystalline birefringent material are called the fast and slow axis. Manufacturing these plates is extremely challenging. The plate must be cut at exactly the right thickness to achieve the desired delay, and the tolerance for this is very tight, there is no room for error!
 
 ## Further Reading
 
-* [Wave Plate on Wikipedia](https://en.wikipedia.org/wiki/Waveplate)
+* [Waveplate](https://en.wikipedia.org/wiki/Waveplate)
 * [Introduction to Waveplates](https://www.toweroptical.com/introduction-to-waveplates/)
 * [Understanding Waveplates](https://www.edmundoptics.com/resources/application-notes/optics/understanding-waveplates/)
 * [More on Waveplates](https://www.rp-photonics.com/waveplates.html)
