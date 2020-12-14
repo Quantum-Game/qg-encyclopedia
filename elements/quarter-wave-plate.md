@@ -15,7 +15,8 @@ Quarter wave plates delay the polarization by lambda/4. This means that they con
     },
     {
       "coord": { "x": 2, "y": 1 },
-      "element": "QuarterWavePlate",
+      "element": "WavePlate",
+      "phaseShift: 0.25,
       "rotation": 135,
       "frozen": false
     }

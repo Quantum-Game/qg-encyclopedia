@@ -15,7 +15,8 @@ Half wave plates delay the polarization by lambda/2. This means that they reflec
     },
     {
       "coord": { "x": 2, "y": 1 },
-      "element": "HalfWavePlate",
+      "element": "WavePlate",
+      "phaseShift": "0.5",
       "rotation": 135,
       "frozen": false
     }
