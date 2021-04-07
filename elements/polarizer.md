@@ -16,7 +16,7 @@ It can transform mixed polarised light into light of a specific polarization.
     },
     {
       "coord": { "x": 2, "y": 1 },
-      "element": "PolarizerH",
+      "element": "Polarizer",
       "rotation": 135,
       "frozen": false
     }
